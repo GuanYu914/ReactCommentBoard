@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactCommentBoard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactCommentBoard/static/js/main.7c77451d.chunk.js",
+    "main.js.map": "/ReactCommentBoard/static/js/main.7c77451d.chunk.js.map",
+    "runtime-main.js": "/ReactCommentBoard/static/js/runtime-main.6796a636.js",
+    "runtime-main.js.map": "/ReactCommentBoard/static/js/runtime-main.6796a636.js.map",
+    "static/js/2.5d84478d.chunk.js": "/ReactCommentBoard/static/js/2.5d84478d.chunk.js",
+    "static/js/2.5d84478d.chunk.js.map": "/ReactCommentBoard/static/js/2.5d84478d.chunk.js.map",
+    "index.html": "/ReactCommentBoard/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactCommentBoard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5d84478d.chunk.js.LICENSE.txt": "/ReactCommentBoard/static/js/2.5d84478d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6796a636.js",
+    "static/js/2.5d84478d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7c77451d.chunk.js"
+  ]
+}
